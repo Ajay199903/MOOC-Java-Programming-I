@@ -71,3 +71,4 @@ This repository contains programming exercise solutions of [MOOC Java Programmin
   - [Sum Of A Sequence The Sequel](https://github.com/Ajay199903/MOOC-Java-Programming-I/blob/main/Part%202/More%20loops/SumOfASequenceTheSequel.java)
   - [Factorial](https://github.com/Ajay199903/MOOC-Java-Programming-I/blob/main/Part%202/More%20loops/Factorial.java)
   - [Repeating Breaking And Remembering](https://github.com/Ajay199903/MOOC-Java-Programming-I/blob/main/Part%202/More%20loops/RepeatingBreakingAndRemembering.java)
+### 4. [Methods and dividing the program into smaller parts](https://java-programming.mooc.fi/part-2/4-methods)
